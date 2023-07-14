@@ -1,4 +1,4 @@
-**Multimodal Search with CLIP.**
+# **Multimodal Search with CLIP**
 
 This repository contains code and resources for a research project on multimodal search using CLIP (Contrastive Language-Image Pretraining). The goal of this project is to explore and develop techniques that enable searching and retrieving information across multiple modalities, specifically text and images.
 
